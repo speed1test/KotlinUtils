@@ -13,7 +13,7 @@
 
     <fragment
         android:id="@+id/nav_gallery"
-        android:name="com.example.utils.ui.AudioFragment"
+        android:name="com.example.utils.ui.VideoFragment"
         android:label="@string/menu_video"
         tools:layout="@layout/fragment_gallery" />
 
