@@ -32,4 +32,9 @@
         android:name="com.example.utils.ui.DictadoFragment"
         android:label="@string/menu_camara"
         tools:layout="@layout/fragment_dictado" />
+    <fragment
+        android:id="@+id/nav_gps"
+        android:name="com.example.utils.ui.GPSFragment"
+        android:label="@string/menu_camara"
+        tools:layout="@layout/fragment_g_p_s" />
 </navigation>

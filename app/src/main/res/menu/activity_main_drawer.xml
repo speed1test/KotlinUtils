@@ -24,5 +24,9 @@
             android:id="@+id/nav_dictado"
             android:icon="@drawable/ic_menu_slideshow"
             android:title="@string/menu_dictado" />
+        <item
+            android:id="@+id/nav_gps"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_gps" />
     </group>
 </menu>
