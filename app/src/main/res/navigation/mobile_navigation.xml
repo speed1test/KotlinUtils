@@ -19,7 +19,7 @@
 
     <fragment
         android:id="@+id/nav_slideshow"
-        android:name="com.example.utils.ui.AudioFragment"
+        android:name="com.example.utils.ui.CamaraFragment"
         android:label="@string/menu_camara"
         tools:layout="@layout/fragment_slideshow" />
 </navigation>
