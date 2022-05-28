@@ -22,4 +22,14 @@
         android:name="com.example.utils.ui.CamaraFragment"
         android:label="@string/menu_camara"
         tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_lectura"
+        android:name="com.example.utils.ui.LecturaFragment"
+        android:label="@string/menu_camara"
+        tools:layout="@layout/fragment_lectura" />
+    <fragment
+        android:id="@+id/nav_dictado"
+        android:name="com.example.utils.ui.DictadoFragment"
+        android:label="@string/menu_camara"
+        tools:layout="@layout/fragment_dictado" />
 </navigation>

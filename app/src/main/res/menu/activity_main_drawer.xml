@@ -16,5 +16,13 @@
             android:id="@+id/nav_slideshow"
             android:icon="@drawable/ic_menu_slideshow"
             android:title="@string/menu_camara" />
+        <item
+            android:id="@+id/nav_lectura"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_lectura" />
+        <item
+            android:id="@+id/nav_dictado"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_dictado" />
     </group>
 </menu>
