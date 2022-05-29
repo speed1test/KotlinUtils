@@ -37,4 +37,9 @@
         android:name="com.example.utils.ui.GPSFragment"
         android:label="@string/menu_camara"
         tools:layout="@layout/fragment_g_p_s" />
+    <fragment
+        android:id="@+id/nav_gestos"
+        android:name="com.example.utils.ui.GestosFragment"
+        android:label="@string/menu_camara"
+        tools:layout="@layout/fragment_gestos" />
 </navigation>
